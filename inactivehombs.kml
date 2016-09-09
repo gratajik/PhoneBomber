@@ -1,0 +1,5435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<Style id='bombMark'>
+<IconStyle>
+<Icon>
+<href>http://www.phonebomber.com/images/bomb.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id='explodeMark'>
+<IconStyle>
+<Icon>
+<href>http://www.phonebomber.com/images/nuke.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id='disarmMark'>
+<IconStyle>
+<Icon>
+<href>http://www.phonebomber.com/images/Disarm.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id='bombStyle'>
+<Pair>
+<key>normal</key>
+<styleUrl>#bombMark</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#bombMark</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id='explodeStyle'>
+<Pair>
+<key>normal</key>
+<styleUrl>#explodeMark</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#explodeMark</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id='disarmStyle'>
+<Pair>
+<key>normal</key>
+<styleUrl>#disarmMark</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#disarmMark</styleUrl>
+</Pair>
+</StyleMap>
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:20:22.506795
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:30:22.506713
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:59:07.708835
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:59:37.708749
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:18:59.611234
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 02:05:39.611158
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 04:24:32.186138
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:25:02.186044
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:27:23.651392
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:27:23.651304
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-112.084095,31.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:48:59.647361
+<p>This bomb was defused by Mr. Bomber on 2010-07-05 03:49:29.647294
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:14.715337
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:44.715208
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:26.516945
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:56.516802
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43df9018 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:14:09.756279
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 03:00:49.756199
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:14:50.977394
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:56:30.977333
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:46:49.463546
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 03:56:49.463482
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Flour Bomb @ android.widget.EditText@437ca700 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-19 04:38:47.490065
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:39:17.489991
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick @ android.widget.EditText@4496e018 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:13:36.390442
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:55:16.390350
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0843372345,34.0159517527,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:58.683661
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:18.683580
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:06.172208
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:26.172121
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:46:22.992789
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:46:52.992693
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234392445,34.1851645906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:51:34.531083
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:52:04.531008
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234358445,34.1851679906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@465554c8 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-23 13:28:26.210065
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-23 13:28:36.209979
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0359609127,34.0099436045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Large Pipe Bomb @ android.widget.EditText@4382b2a0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-19 04:38:40.300117
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:42:40.300016
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:15.132029
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:45.131919
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:41.599261
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 22:20:51.599173
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chemical Fire Bottle @ android.widget.EditText@449baf30 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:38:16.693749
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 23:39:16.693655
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.154165864,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:01.742777
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:01.742692
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:40.164239
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:10.164115
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:47.646209
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:47.646134
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:28:49.404234
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 05:28:49.404133
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:28:59.421008
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 06:38:59.420925
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:24.039362
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:54.039283
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:42.642612
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:12.642535
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:09.252536
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:44:09.252464
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.184095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Flour Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:39.481280
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:09.481161
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@4383d6b8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-18 04:19:46.413701
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-18 04:20:16.413627
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@44a5beb0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 01:10:06.924360
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 02:10:06.924273
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1648732424,34.0667742491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:23.264723
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:53.264636
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:18:53.739653
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 22:52:13.739579
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:53:40.697380
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:03:40.697298
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.084135,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:54:12.392430
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:04:12.392355
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.085135,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:13:06.139015
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:13:26.138935
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:23.755728
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:53.755647
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:45:06.201202
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 23:55:06.201127
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.084195,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:50:55.933655
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:50:55.933583
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:14.307784
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:44.307701
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:51.829924
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 23:54:51.829851
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.085095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@437a36c0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-18 04:24:05.388958
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-18 04:24:35.388860
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:14:41.355020
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 03:14:41.354948
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Flour Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:37:46.474192
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:38:16.474115
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:22.968865
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:52.968786
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:50.202283
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 22:54:10.202162
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-29 01:49:10.452198
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 02:49:10.452104
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:49:00.272082
+<p>This bomb was defused by Mr. Bomber on 2010-07-05 03:49:30.272004
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:29.143874
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 23:02:09.143777
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:44.333215
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:24.333144
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:45.403873
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:25.403748
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:35.881348
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:44:35.881267
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.085095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:49:13.478201
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 03:59:13.478115
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.03483,34.00532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@449d7df0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:47.784379
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 23:38:17.784298
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541604996,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:52.380828
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:32.380715
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:53.300901
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:33.300772
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:29:05.661482
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 05:02:25.661391
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:15.425399
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:45.425319
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:22.093544
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:52.093455
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade @ android.widget.EditText@44a33018 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 00:57:36.681787
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 00:57:56.681619
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1580067873,34.0725463629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:44.851515
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:24.851445
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:59:08.530070
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:59:38.529982
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:15:40.843036
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:15:40.842969
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 04:29:35.066315
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:30:35.066218
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:48:59.280600
+<p>This bomb was defused by Mr. Bomber on 2010-07-05 03:49:29.280529
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:26.212774
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:56.212700
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:53:18.362757
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:03:18.362671
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.084195,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:46.777422
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:46.777301
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:19:17.662586
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 23:19:17.662504
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:49:45.710642
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:49:45.710550
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.03484,34.00532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:54.465308
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:34.465237
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:27:03.651327
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:27:03.651247
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-113.084095,31.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M67 Grendade with timer @ android.widget.EditText@44982210 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-15 00:22:23.337728
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-15 00:32:23.337643
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0408103466,34.0005934238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:42.254255
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:17:42.254102
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:59:06.399550
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:59:36.399474
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:13.999028
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:43.998941
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:50:22.105100
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:50:22.105021
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:50:26.745858
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:50:26.745784
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033602,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:48.815150
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:48.815070
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:43.809447
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:43.809367
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:46.535294
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:46.535222
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:10.330560
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:40.330435
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:36.408181
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:36.408107
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:08.466053
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:38.465963
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:35:31.134570
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:36:31.134489
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@4653e250 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-24 16:26:40.571101
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-24 16:26:50.571023
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.8396232128,34.1107839346,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:55:29.451797
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:55:59.451698
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234322445,34.185176955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:09:56.976455
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:19:56.976382
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:54.179117
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:34.179050
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:46.102433
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:46.102349
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:20.450190
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 00:30:20.450109
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick @ android.widget.EditText@43eb3668 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-21 03:30:21.702929
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 04:12:01.702848
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084096,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:07.091063
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:37.090945
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:12.353722
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:42.353632
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:42.956912
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:12.956781
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:33.344949
+<p>This bomb was defused by Mr. Bomber on 2010-07-05 23:20:33.344851
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:45.102830
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:25.102705
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:02.907959
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:32.907876
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:34:13.254697
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:34:43.254612
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234345445,34.1852175703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:42:09.119001
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:42:39.118889
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234162445,34.185192955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:12:44.001350
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:22:44.001281
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:44.016601
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:24.016506
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-19 04:41:05.226992
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:41:35.226900
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:07:35.172919
+<p>This bomb was defused by Mr. Bomber on 2010-06-26 05:17:35.172811
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:47.064181
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:47.064104
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:10:33.727782
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:20:33.727701
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 04:29:34.771104
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:30:34.771021
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:07.544163
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:27.544080
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:57.358478
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:57.358400
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:09.731356
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:39.731254
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chemical Fire Bottle @ android.widget.EditText@437ee508 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-19 04:40:21.174299
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:41:21.174238
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:52.651240
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:32.651133
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:43.750167
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:23.750094
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:59:07.968825
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:59:37.968750
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44a39d48 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-05 23:08:00.337968
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 02:54:40.337891
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1326277256,34.0365028381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:25:42.437299
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:25:42.437213
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,31.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 04:28:35.210179
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:29:05.210093
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:49.657669
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:23:19.657551
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:38.533584
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:08.533488
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:41.437778
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:11.437661
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 04:24:32.654375
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:25:02.654279
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@4491add8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:40:40.727961
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:41:10.727877
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:38.864909
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:08.864833
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:00.656426
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:44:00.656342
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.284095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:25.046868
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:55.046764
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Flour Bomb @ android.widget.EditText@449edbb8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:38:19.593208
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 23:38:49.593134
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.154165864,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:05.685256
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:35.685174
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:41:37.091110
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:42:07.091025
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234385089,34.185176055,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:25.348392
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:55.348299
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:41.146025
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:11.145931
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:48.665997
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:23:18.665922
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 21:30:31.274369
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 21:31:01.274271
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@44a000e0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 00:13:36.200345
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 01:13:36.200274
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.042714715,33.9982277155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:04.233022
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:04.232947
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:44:45.034030
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:45:15.033944
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234082445,34.1851902262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:44:54.711339
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:45:24.711231
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234397445,34.1851587262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:46:39.205556
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:47:09.205482
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234414445,34.1851623906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:55:19.101080
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:55:49.101001
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234082445,34.185200955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ android.widget.EditText@437eb520 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-18 04:19:35.249558
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-18 04:29:35.249467
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:09:24.582688
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:09:44.582587
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:50.949325
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:30.949260
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:26.822951
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:56.822877
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@449be9d8 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:48:59.958345
+<p>This bomb was defused by Mr. Bomber on 2010-07-05 03:49:29.958278
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:24.771584
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:54.771511
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:47.359115
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:47.359007
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ android.widget.EditText@437738e8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-19 04:34:18.945318
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:44:18.945224
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-19 04:40:50.179133
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-19 04:41:20.179065
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-04 06:15:52.865555
+<p>This bomb was defused by nexua on 2010-07-04 06:25:52.865475
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-81.03148,34.003824,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:28:55.577124
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 08:15:35.577051
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade @ android.widget.EditText@4499ed98 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-05 23:11:34.760709
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 23:11:54.760578
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1326277256,34.0365028381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@44a49260 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 01:09:37.153624
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 01:42:57.153526
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1648732424,34.0667742491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:23.245811
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:44:23.245722
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.014095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:11:19.806747
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:21:19.806668
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-29 01:49:09.940482
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 02:49:09.940399
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:40.637738
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:10.637647
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:06.569326
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:26.569250
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:52.914749
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:32.914666
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:25.900550
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:55.900460
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-04 06:15:54.451413
+<p>This bomb was defused by nexua on 2010-07-04 06:25:54.451337
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-81.03148,34.003824,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 03:46:50.271767
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 03:56:50.271670
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 21:30:42.204028
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 21:31:12.203923
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449af1e0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:39:34.848620
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:39:44.848537
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:45:36.342305
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:46:06.342204
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234334445,34.1851703906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449a3c18 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 21:45:27.161197
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 21:45:37.161107
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1329828,34.0360563,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@4498c608 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:36:30.989923
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 23:09:50.989852
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.225175,33.999715,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:41.193248
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:17:41.193122
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:24.335980
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:54.335878
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43e83938 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:54:17.382939
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:40:57.382847
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:46.469718
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:46.469602
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@44990b28 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:40:00.324486
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:40:30.324408
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:05.458340
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:35.458259
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade @ android.widget.EditText@449309f0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 15:38:52.861595
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 15:39:12.861499
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1321395636,34.0365886688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@44a17640 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 21:59:35.496130
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:59:35.496047
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-84.72827,45.8155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@43e75a90 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-26 01:57:37.939016
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 01:58:07.938919
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:12:25.616321
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:12:55.616243
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:50:29.650905
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:50:29.650810
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033603,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@43e212d0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-26 02:42:05.250826
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 02:42:35.250759
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:14:53.438737
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:15:13.438633
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43eb3fe8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:10:13.764755
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 02:56:53.764667
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@44aabe60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-04 04:13:07.068034
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-04 04:13:17.067952
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1326760054,34.0365993977,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:45.801767
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:45.801692
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:21.004855
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:51.004778
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:26.799787
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:56.799705
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:41.748230
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:41.748070
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 02:57:31.558563
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 02:59:31.558484
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:14:56.385475
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:16:56.385398
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:02:45.668475
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:03:15.668399
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:48.193893
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:48.193818
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade @ android.widget.EditText@449f5bf0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 00:56:33.772104
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 00:56:53.771985
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1580067873,34.0725463629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@44930118 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44a03dc0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:08.883978
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 03:23:48.883905
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541604996,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:32:18.112463
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:32:48.112385
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:46:58.810788
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:47:28.810702
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234342445,34.1851695906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:51:11.521805
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:51:41.521730
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234391445,34.1851646906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator @ Test </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-26 03:07:37.240388
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-26 05:17:37.240235
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.422006,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade @ android.widget.EditText@449873c0 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 00:56:54.115782
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-06 00:57:14.115690
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1580067873,34.0725463629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 04:24:32.969604
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:25:02.969528
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:14:47.893279
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:56:27.893158
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:39.682445
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 02:07:19.682362
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-07 03:49:07.056768
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 03:59:07.056692
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.03487,34.00532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:00.922007
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:20.921890
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-06-28 05:01:51.786697
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-29 08:48:31.786580
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:43.744455
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:13.744380
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 22:20:46.065159
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 23:02:26.065052
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132735,34.036481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@449be418 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 01:08:51.407196
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:55:31.407119
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1648732424,34.0667742491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@449d4148 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 20:37:53.241463
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 00:24:33.241389
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1325901747,34.0365564823,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-06 23:44:43.705093
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 00:44:43.705023
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-121.085095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ TEST </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 04:28:34.812893
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 04:29:04.812796
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.033604,34.00514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:42.079736
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:12.079658
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 02:15:46.498113
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 02:57:26.498025
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:47.934969
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:47.934892
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449a4298 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-15 00:22:12.639878
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-15 00:22:22.639803
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0408318043,34.0005290508,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M-80 @ android.widget.EditText@449f5698 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:35.802820
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 23:42:35.802741
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541604996,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:39.074334
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:39.074259
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:24.400878
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:54.400784
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:29.521592
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:59.521497
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:46:32.187304
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:47:02.187221
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9233642445,34.1852395906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade @ android.widget.EditText@449dd030 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:25:10.916497
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:25:30.916414
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.224229,34.004528,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:00.808926
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:00.808855
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-06-28 04:59:07.459218
+<p>This bomb <font color='red'>Exploded</font> on 2010-06-28 04:59:37.459144
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-05 04:14:42.372101
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-05 04:15:12.372026
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449c46e8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:14.025094
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 23:37:24.025013
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541551352,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:47.719135
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:23:17.719057
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chemical Fire Bottle </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-07 21:31:59.958373
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-07 21:32:59.958278
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:42.857315
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:42.857207
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb @ android.widget.EditText@43e70988 </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 00:26:28.925060
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 00:28:28.924972
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Grenade </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@46630738 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-13 16:11:19.176659
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-13 16:11:29.176575
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1250585318,34.0442222357,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-08 02:59:23.398165
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 02:59:53.398075
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick @ android.widget.EditText@44bc2f98 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-09 20:27:00.198706
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 21:08:40.198627
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-86.526566,42.0050695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Large Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-08 02:53:57.144642
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 02:57:57.144558
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-08 02:55:15.722787
+<p>This bomb was defused by davechlan@gmail.com on 2010-07-08 02:55:45.722709
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@44bc1fe8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-09 20:27:10.152600
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 20:27:20.152481
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-86.526566,42.0050695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44919820 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-13 16:05:05.833708
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-14 19:51:45.833624
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-81.1250960827,34.0442383289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Large Pipe Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@44c0fcb0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-09 20:27:56.762178
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 20:28:26.762108
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.3142101,35.9547168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>oMan</b> on 2010-07-08 02:58:58.496242
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 02:59:28.496122
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nail Grenade </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44da56e8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-09 20:57:15.520206
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-11 00:43:55.520132
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.3142101,35.9547168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>oMan</b> on 2010-07-08 03:03:56.591191
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 03:04:26.591079
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb @ android.widget.EditText@43dca650 </name>
+<description>
+<![CDATA[
+Placed by <b>oMan</b> on 2010-07-08 03:05:27.483089
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 03:07:27.482992
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158447266,42.1120762825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Chemical Fire Bottle </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M67 Grendade with timer @ android.widget.EditText@44b95858 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-09 20:27:02.280488
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 20:37:02.280418
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-86.526566,42.0050695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Defuser</b> on 2010-07-08 03:04:26.538137
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-08 03:04:56.538031
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.1158393621,42.1120870113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Nail Grenade </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-52 Fragmentation </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@4658f810 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-08 12:52:36.896412
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 16:39:16.896329
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0360628366,34.0097773075,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Acetone Explosive </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 @ android.widget.EditText@44c7d648 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-09 20:28:02.690504
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 20:28:32.690423
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.3142101,35.9547168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@449e5420 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-14 21:21:51.790945
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 01:08:31.790868
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.132697463,34.0366744995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@449a76d8 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44c1aef0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-09 20:57:08.546490
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-11 00:43:48.546414
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.3142101,35.9547168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44a770c8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-09 20:26:53.966391
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-11 00:13:33.966281
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-86.526566,42.0050695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@44c65f20 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-09 20:27:53.791534
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-09 20:28:23.791466
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-88.3142101,35.9547168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-87 Gator </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Walleye II </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44a7f9e8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-14 21:52:06.686673
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 01:38:46.686569
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0408049822,34.0004110336,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@4492fd20 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-15 00:22:18.029963
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 04:08:58.029888
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0408103466,34.0005934238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:21:49.021739
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:19.021629
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:21:53.544268
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:23.544167
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:40.672881
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:40.672804
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:26:11.461597
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:28:11.461512
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:04.822589
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:34.822507
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43e4dbf8 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-22 03:13:06.017223
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-23 06:59:46.017133
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:48:27.419996
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:48:57.419908
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234292445,34.1851745906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@449b3be0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:05:15.367290
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:38:35.367196
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.187165,34.008277,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb @ android.widget.EditText@44a1eb60 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:40:18.056733
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:41:18.056651
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:05.181525
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:25.181404
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@449d8b60 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 15:38:36.990871
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 16:11:56.990797
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1321395636,34.0365886688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@44977af0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-15 00:22:33.329909
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-15 00:23:03.329811
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0408103466,34.0005934238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:08.584746
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:28.584644
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:06.181337
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:36.181266
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:31:08.856499
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:38.856424
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@465b4660 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:34:03.822090
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:34:33.822017
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234368801,34.1852045059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maverick </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:56.424501
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:16.424418
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:01.469647
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:31.469548
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:04.108828
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:24.108730
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@464b62c0 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:37:59.570846
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:38:29.570740
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234368801,34.1851723194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@449a0dd8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 06:16:23.850316
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 07:16:23.850233
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-84.72827,45.8155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 @ android.widget.EditText@46511e60 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:31:43.689973
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:32:13.689887
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234583378,34.1852474213,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:35:39.466868
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:36:09.466791
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234178801,34.1852074127,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@44971470 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-17 01:47:54.193466
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 05:34:34.193392
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541712284,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:04.442913
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:34.442836
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:39.953067
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:39.952977
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:21.873730
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:51.873649
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:07.020351
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:37.020275
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade @ android.widget.EditText@449af8f0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:09:08.310923
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:09:28.310827
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.20010455,34.0060743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@44aa2310 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:41:57.560493
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:42:27.560400
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@4495e1a0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-17 03:46:17.075136
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 07:32:57.075061
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1326813698,34.0366208553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-20 04:37:24.544843
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-20 04:47:24.544727
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:35:33.495183
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:36:33.495110
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:06.427409
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:36.427333
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:56.574476
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:56.574401
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Large Pipe Bomb @ android.widget.EditText@449c3288 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 15:39:15.391049
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 15:43:15.390964
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1293661594,34.0383267403,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@449fa328 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:39:37.320511
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 22:12:57.320431
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:03.161382
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:03.161307
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ android.widget.EditText@43e55038 </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 00:25:32.571042
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 00:26:02.570963
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:00.927012
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:30.926908
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:57.474416
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:17.474315
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43ed2988 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-17 03:10:10.233709
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 06:56:50.233619
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:27.805357
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:57.805266
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:51.356167
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:21.356073
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:58.959875
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:58.959802
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@44a4d480 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:40:23.503472
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:40:33.503369
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:25.506673
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:55.506589
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:00.886250
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:30.886174
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:45.957594
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:23:15.957509
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449c8f70 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 15:38:11.908800
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 15:38:21.908713
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1323863268,34.036449194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:38:04.537569
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:38:34.537446
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233923378,34.1849969206,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Large Pipe Bomb @ android.widget.EditText@44a26650 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:26:30.952922
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:30:30.952813
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.2179565,33.9996135,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grenade @ android.widget.EditText@4499ac20 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:39:41.718836
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:40:01.718751
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@46788cf8 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:47:33.845029
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 23:20:53.844936
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234422445,34.1851615906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:51:00.427074
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:51:30.426985
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234032445,34.1852005906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@449e9fb0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:13:33.494565
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-18 01:00:13.494489
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0843372345,34.0159517527,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Walleye II @ android.widget.EditText@449d8f20 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:24.399137
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-17 00:10:44.399046
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541604996,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:59.863611
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:59.863515
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:07.706098
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:37.706019
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:44:36.857413
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:45:06.857329
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234347445,34.1851637262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@4497e1b8 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 21:39:48.015501
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-16 21:40:18.015422
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0841655731,34.0161877871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb @ android.widget.EditText@44a63510 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-21 00:40:10.508852
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 00:48:30.508778
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0427200794,33.9982330799,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:02.494287
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:02.494207
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:42.004250
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:42.004153
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:21:46.766420
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:16.766337
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:50:07.841465
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:50:37.841377
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233512445,34.1852525906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:34.638043
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:34.637964
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:50:18.614184
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:50:48.614107
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234344445,34.1851693906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43e79500 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-21 03:29:48.915609
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 07:16:28.915505
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:54:59.622958
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:55:29.622858
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233422445,34.185266955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:45.625100
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:45.625002
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:21:58.599256
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:28.599174
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:04.705809
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:24.705722
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:10.291883
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:40.291795
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Flour Bomb @ android.widget.EditText@4657b900 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:43:28.050795
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:43:58.050707
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234368801,34.1851615906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:02.219104
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:32.219025
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:00.294345
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:30.294267
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@4651b420 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-23 16:35:17.106618
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-23 16:35:27.106532
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.014637351,33.9971548319,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:44.738764
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:44.738646
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:08.364655
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:38.364580
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:03.300584
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:33.300503
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mk-83 High Explosive Bomb @ android.widget.EditText@43f20900 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-23 03:57:07.891845
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-24 07:43:47.891697
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-117.40510845,32.94351125,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:23.239534
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:53.239438
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:27:04.034426
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:34.034349
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Large Pipe Bomb @ android.widget.EditText@46546240 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:43:14.041851
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:47:14.041766
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234368801,34.185166955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb @ android.widget.EditText@43ea2928 </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 00:27:14.335016
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 00:29:14.334934
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:03.280222
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:33.280110
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:51:47.349204
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:52:17.349083
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234330445,34.1851707906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:35:34.997559
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:36:34.997470
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:42:58.673635
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:43:28.673544
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233998801,34.185203955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M67 Grendade with timer </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:48:51.087307
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:49:21.087223
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233912445,34.1852125906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@449e1310 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-16 23:37:21.060960
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-17 00:37:21.060888
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1541551352,34.0749710798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:21:59.561325
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:29.561249
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:59.754377
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:19.754293
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:31:10.528191
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:40.528116
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:32:05.211211
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:32:35.211123
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.923468231,34.185173155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@449a7e58 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-17 01:48:30.199135
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-17 02:21:50.199055
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1544126272,34.0690380335,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Walleye II @ android.widget.EditText@44a588d0 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-17 01:48:33.381270
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-17 02:21:53.381132
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.1543804407,34.0690380335,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:06.985028
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:26.984939
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@44a4b708 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 22:08:50.009610
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 22:09:00.009525
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.20010455,34.0060743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>Walleye II @ android.widget.EditText@43dc6f10 </name>
+<description>
+<![CDATA[
+Placed by <b>Mr. Bomber</b> on 2010-07-17 03:10:23.603841
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-17 03:43:43.603761
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:03.419945
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:23.419862
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:35:55.680992
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:36:55.680922
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:40:21.333338
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:40:51.333237
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234312445,34.1851833194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ test </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 01:28:00.975225
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 01:28:30.975103.  No one was killed, and no one was injured
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:49:51.104463
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:50:21.104372
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234347445,34.1851690906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:32:11.308518
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:32:41.308400
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:35:57.340640
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:36:57.340558
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Large Pipe Bomb @ android.widget.EditText@464632b0 </name>
+<description>
+<![CDATA[
+Placed by <b>potsie@sc.rr.com</b> on 2010-07-22 22:39:51.839211
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-22 22:43:51.839109
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-80.9234422445,34.1851776838,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:11.840524
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:41.840452
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:50.679458
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:23:20.679345
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:13.143282
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:43.143182
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:58.202396
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:58.202310
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:40:41.953808
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:41:11.953691
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234342445,34.185174955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:46:15.600982
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:46:45.600896
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234360445,34.1851677906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:09.280709
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:39.280627
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>.22 Riot Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:36:40.955968
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:37:40.955859
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:38:26.256355
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:38:56.256271
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233972445,34.1852173194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:16:47.655859
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:18:47.655791
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:09.294253
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:39.294175
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:38:20.103545
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:38:50.103460
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9234402445,34.1851743194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:40:32.400978
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:41:02.400892
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233802445,34.185228955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Margie</b> on 2010-07-23 13:28:53.382986
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-23 13:29:23.382872
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-81.0358038109,34.0099505026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:55.781585
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:26:55.781479
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:05.136033
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:05.135960
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Pipe Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:25:37.332682
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:27:37.332561
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:13.088964
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:43.088885
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:09.262780
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:29.262703
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:20:28.628091
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:20:58.627968
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aerosol Bomb </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:23:02.333487
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:31:22.333399
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@43ef24d8 </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 00:24:40.974144
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 00:25:10.974055
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-74.0109,40.729,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:22:02.102304
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:22:32.102229
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>greg3@ratajik.net</b> on 2010-07-21 05:24:11.243615
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-21 05:24:41.243537
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-122.084095,37.422006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 </name>
+<description>
+<![CDATA[
+Placed by <b>Lemuel</b> on 2010-07-22 22:45:05.297938
+<p>This bomb was defused by potsie@sc.rr.com on 2010-07-22 22:45:35.297855
+]]>
+</description>
+<styleUrl>#disarmStyle</styleUrl>
+<Point>
+<coordinates>-80.9233612445,34.1852372262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CBU-52 Fragmentation @ android.widget.EditText@449fbe50 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 21:57:24.931101
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 21:57:34.931003
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-84.72827,45.8155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Small Red Firecracker @ android.widget.EditText@43e586b8 </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 00:25:21.412705
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 00:25:51.412606
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-74.0109,40.729,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AIM-7M @ android.widget.EditText@44962d00 </name>
+<description>
+<![CDATA[
+Placed by <b>ratajik</b> on 2010-07-25 06:14:22.114589
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-25 07:14:22.114510
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-74.01217,40.7125,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M60 @ Wyys-FM Cayce </name>
+<description>
+<![CDATA[
+Placed by <b>tester</b> on 2010-07-26 01:28:32.312688
+<p>This bomb <font color='red'>Exploded</font> on 2010-07-26 01:29:02.312606.  No one was killed, and no one was injured
+]]>
+</description>
+<styleUrl>#explodeStyle</styleUrl>
+<Point>
+<coordinates>-81.0335,34.00138,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
